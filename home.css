@@ -46,7 +46,7 @@
 .content {
     width: 100%;
     position: absolute;
-    top: 40%;
+    top: 50%;
     text-align: center;
     color: #fff;
 }
@@ -54,7 +54,7 @@
 .content h1 {
     font-size: 70px;
     margin-top: 60px;
-    display: in;
+    display: inline;
 }
 
 .content p {
